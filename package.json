@@ -1,0 +1,22 @@
+{
+  "name": "@fr-rd-unabiz/data-common",
+  "version": "0",
+  "description": "Unabiz data platform common JS package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fr-rd-unabiz/data-common.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fr-rd-unabiz/data-common/issues"
+  },
+  "homepage": "https://github.com/fr-rd-unabiz/data-common#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
